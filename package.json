@@ -40,7 +40,8 @@
     "eslint-fix": "npm run eslint -- --fix",
     "stylelint": "stylelint \"**/*.scss\"",
     "stylelint-fix": "npm run stylelint -- --fix",
-    "release": "./scripts/release.js"
+    "release": "./scripts/release.js",
+    "chromatic": "npx chromatic --project-token=0042a7869dd5"
   },
   "repository": {
     "type": "git",
