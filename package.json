@@ -61,10 +61,13 @@
   "homepage": "https://github.com/mondaycom/monday-ui-react-core#readme",
   "dependencies": {
     "@popperjs/core": "2.11.6",
+    "@storybook/addon-measure": "^6.5.16",
+    "@storybook/addon-outline": "^6.5.16",
     "a11y-dialog": "^7.5.2",
     "autosize": "^5.0.1",
     "body-scroll-lock": "^4.0.0-beta.0",
     "classnames": "^2.3.2",
+    "lodash-es": "^4.17.21",
     "monday-ui-style": "0.1.149",
     "prop-types": "^15.8.1",
     "react-dates": "21.8.0",
@@ -75,8 +78,7 @@
     "react-virtualized-auto-sizer": "^1.0.7",
     "react-window": "^1.8.7",
     "react-windowed-select": "^2.0.4",
-    "style-inject": "^0.3.0",
-    "lodash-es": "^4.17.21"
+    "style-inject": "^0.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.16.5",
